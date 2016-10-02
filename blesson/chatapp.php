@@ -1,4 +1,3 @@
-//this application is live on blesson.orgfree.com
 <?php
 session_start();
 $name=$_SESSION['name'];
