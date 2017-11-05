@@ -1,5 +1,6 @@
-# Basic-messenger
-
-This is the most basic form of messenger.<br>
-Languages used are (php,html,css).<br>
-You can see demo of this by clicking <a href="http://blesson.orgfree.com/" target="_blank">here</a>
+# Basic Messenger
+This is the most basic form of online messenger developed using php, HTML & CSS.
+## Live Demo
+Click [here](http://blesson.orgfree.com/) for live demo.
+### Developed by:
+Blesson Thomas
